@@ -2,6 +2,8 @@
 
 Cry2Admin is a web application for managing residential complaints and announcements. The project consists of a **Flask** backend, a **React** frontend, and uses **MySQL** as the database. It is designed to streamline communication between residents, security staff, and administrators.  
 
+A detailed report about this project is available in [`OmamaSaleha_ccp.pdf`](OmamaSaleha_ccp.pdf), covering all modules, implementation details, and features.
+
 ## Features
 
 ### Complaint Management
@@ -12,6 +14,11 @@ Cry2Admin is a web application for managing residential complaints and announcem
 ### Announcements
 - Admin can create and manage announcements.
 - Residents and staff can view all announcements.
+
+### Additional Features
+- **Audit Logs:** Track all user activities for transparency.
+- **Server Logs:** Monitor backend operations and errors.
+- **Role-Based Access:** Different functionalities for Admin, Residents, and Security staff.
 
 ## Technology Stack
 - **Backend:** Flask  
@@ -24,6 +31,7 @@ Cry2Admin is a web application for managing residential complaints and announcem
 Cry2Admin/
 ├── backend/       # Flask backend
 ├── frontend/      # React frontend
+├── OmamaSaleha_ccp.pdf  # Detailed project report
 └── README.md
 
 ````
@@ -93,12 +101,17 @@ Cry2Admin/
 ## Usage
 
 * Residents and security staff can create complaints and view announcements.
-* Admin can manage complaints and create announcements.
+* Admin can manage complaints, create announcements, and review audit logs.
 * All users can see the status of complaints and announcements in real-time.
+* Role-based access ensures only authorized users can perform certain actions.
 
 ## Notes
 
 * Ensure that MySQL is running (e.g., via WAMP).
 * Make sure the database configuration in `config.py` matches your MySQL credentials.
+* For a full detailed explanation of modules and implementation, refer to [`OmamaSaleha_ccp.pdf`](OmamaSaleha_ccp.pdf).
 
+ENJOYYY Y'ALL. 
 
+Do you want me to do that next?
+```
