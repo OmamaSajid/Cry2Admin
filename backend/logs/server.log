@@ -1,0 +1,672 @@
+2025-12-07 19:00:38,150 - INFO - Flask app initialized
+2025-12-07 19:00:38,433 - INFO - Flask app initialized
+2025-12-07 19:02:52,700 - INFO - Flask app initialized
+2025-12-07 19:02:52,979 - INFO - Flask app initialized
+2025-12-07 19:09:45,924 - INFO - Flask app initialized
+2025-12-07 19:27:14,379 - INFO - Flask app initialized
+2025-12-07 19:28:55,494 - INFO - Flask app initialized
+2025-12-07 19:29:38,592 - INFO - User logged out: 3
+2025-12-07 19:29:44,800 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-07 19:29:46,630 - INFO - Session validated for user: 4
+2025-12-07 19:31:44,544 - INFO - Session validated for user: 4
+2025-12-07 19:32:49,541 - INFO - Session validated for user: 4
+2025-12-07 19:33:06,547 - INFO - Session validated for user: 4
+2025-12-08 11:58:44,138 - INFO - Flask app initialized
+2025-12-08 11:58:45,223 - INFO - Flask app initialized
+2025-12-08 11:58:58,649 - WARNING - Unauthorized session validation attempt
+2025-12-08 11:58:58,912 - WARNING - Unauthorized session validation attempt
+2025-12-08 11:59:50,205 - WARNING - Unauthorized session validation attempt
+2025-12-08 11:59:50,468 - WARNING - Unauthorized session validation attempt
+2025-12-08 12:00:07,130 - WARNING - Unauthorized session validation attempt
+2025-12-08 12:00:07,391 - WARNING - Unauthorized session validation attempt
+2025-12-08 12:10:31,792 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-08 12:10:33,767 - INFO - Session validated for user: 3
+2025-12-08 13:02:26,996 - INFO - Session validated for user: 3
+2025-12-08 13:02:27,171 - INFO - Session validated for user: 3
+2025-12-08 13:02:49,098 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-08 13:02:50,632 - INFO - Session validated for user: 4
+2025-12-08 13:08:34,182 - INFO - User logged out: 4
+2025-12-08 13:47:16,754 - INFO - Flask app initialized
+2025-12-08 13:47:17,843 - INFO - Flask app initialized
+2025-12-08 13:47:38,060 - WARNING - Unauthorized session validation attempt
+2025-12-08 13:47:38,307 - WARNING - Unauthorized session validation attempt
+2025-12-08 13:47:56,302 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-08 13:47:58,129 - INFO - Session validated for user: 4
+2025-12-08 13:48:13,208 - INFO - Complaints retrieved by user 4
+2025-12-08 13:48:23,649 - INFO - Session validated for user: 4
+2025-12-08 13:48:25,083 - INFO - Session validated for user: 4
+2025-12-08 13:49:00,463 - INFO - Session validated for user: 4
+2025-12-08 13:49:08,251 - INFO - User logged out: 4
+2025-12-08 13:49:16,263 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-08 13:49:17,796 - INFO - Session validated for user: 3
+2025-12-08 13:49:33,417 - INFO - Session validated for user: 3
+2025-12-08 13:49:33,742 - INFO - Session validated for user: 3
+2025-12-08 13:49:48,236 - INFO - Session validated for user: 3
+2025-12-08 13:49:48,544 - INFO - Session validated for user: 3
+2025-12-08 13:49:48,814 - INFO - Session validated for user: 3
+2025-12-08 13:49:52,641 - INFO - Session validated for user: 3
+2025-12-08 13:49:52,958 - INFO - Session validated for user: 3
+2025-12-08 13:49:52,966 - INFO - Complaints retrieved by user 3
+2025-12-08 13:49:58,921 - INFO - Session validated for user: 3
+2025-12-08 13:49:59,237 - INFO - Session validated for user: 3
+2025-12-08 13:49:59,487 - INFO - Session validated for user: 3
+2025-12-08 13:50:00,556 - INFO - Session validated for user: 3
+2025-12-08 13:50:00,865 - INFO - Session validated for user: 3
+2025-12-08 13:50:01,131 - INFO - Session validated for user: 3
+2025-12-08 13:50:03,233 - INFO - Session validated for user: 3
+2025-12-08 13:50:03,541 - INFO - Session validated for user: 3
+2025-12-08 13:50:03,797 - INFO - Session validated for user: 3
+2025-12-08 13:50:04,620 - INFO - Session validated for user: 3
+2025-12-08 13:50:04,938 - INFO - Session validated for user: 3
+2025-12-08 13:50:07,787 - INFO - Session validated for user: 3
+2025-12-08 13:50:08,105 - INFO - Session validated for user: 3
+2025-12-08 13:50:08,371 - INFO - Session validated for user: 3
+2025-12-08 13:50:11,380 - INFO - User logged out: 3
+2025-12-08 14:03:19,462 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-08 14:03:21,010 - INFO - Session validated for user: 3
+2025-12-08 14:03:32,921 - INFO - Session validated for user: 3
+2025-12-08 14:03:33,188 - INFO - Session validated for user: 3
+2025-12-08 14:03:33,243 - INFO - Complaints retrieved by user 3
+2025-12-09 09:39:24,224 - INFO - Flask app initialized
+2025-12-09 09:39:25,130 - INFO - Flask app initialized
+2025-12-09 09:39:38,635 - WARNING - Unauthorized session validation attempt
+2025-12-09 09:39:38,887 - WARNING - Unauthorized session validation attempt
+2025-12-09 09:50:18,294 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-09 09:50:19,824 - INFO - Session validated for user: 4
+2025-12-09 09:50:22,670 - INFO - Complaints retrieved by user 4
+2025-12-09 09:51:10,084 - INFO - Complaint 5 status updated by user 4 from Open to Open
+2025-12-09 09:51:10,422 - INFO - Complaints retrieved by user 4
+2025-12-09 09:51:15,602 - INFO - Session validated for user: 4
+2025-12-09 09:51:15,917 - INFO - Session validated for user: 4
+2025-12-09 09:51:15,945 - INFO - Complaints retrieved by user 4
+2025-12-09 09:51:24,550 - INFO - Session validated for user: 4
+2025-12-09 09:51:24,874 - INFO - Session validated for user: 4
+2025-12-09 09:51:24,888 - INFO - Complaints retrieved by user 4
+2025-12-09 09:51:39,028 - INFO - Complaint created by user 4: Misbeahve
+2025-12-09 09:51:39,352 - INFO - Complaints retrieved by user 4
+2025-12-09 10:18:09,392 - INFO - Session validated for user: 4
+2025-12-09 10:18:10,676 - INFO - User logged out: 4
+2025-12-09 10:18:17,630 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-09 10:18:19,162 - INFO - Session validated for user: 3
+2025-12-09 10:18:23,648 - INFO - Session validated for user: 3
+2025-12-09 10:18:23,916 - INFO - Session validated for user: 3
+2025-12-09 10:18:24,001 - INFO - Complaints retrieved by user 3
+2025-12-09 10:18:30,243 - INFO - Complaint 3 deleted by user 3
+2025-12-09 10:18:32,575 - INFO - Complaint 5 deleted by user 3
+2025-12-09 10:26:45,248 - INFO - Session validated for user: 3
+2025-12-09 10:26:45,506 - INFO - Session validated for user: 3
+2025-12-09 10:26:45,572 - INFO - Session validated for user: 3
+2025-12-09 10:26:46,899 - INFO - Session validated for user: 3
+2025-12-09 10:26:47,248 - INFO - Session validated for user: 3
+2025-12-09 10:26:47,465 - INFO - Session validated for user: 3
+2025-12-09 10:27:23,336 - INFO - Session validated for user: 3
+2025-12-09 10:27:43,676 - INFO - Session validated for user: 3
+2025-12-09 13:19:15,449 - INFO - Flask app initialized
+2025-12-09 13:19:15,957 - INFO - Flask app initialized
+2025-12-09 13:19:37,344 - WARNING - Unauthorized session validation attempt
+2025-12-09 13:19:37,591 - WARNING - Unauthorized session validation attempt
+2025-12-09 13:20:13,843 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-09 13:20:15,429 - INFO - Session validated for user: 4
+2025-12-09 13:20:51,500 - INFO - Complaints retrieved by user 4
+2025-12-09 13:20:57,421 - INFO - Session validated for user: 4
+2025-12-09 13:21:11,224 - INFO - Complaints retrieved by user 4
+2025-12-09 13:22:11,131 - INFO - Complaint created by user 4: Irresponsible beahviour
+2025-12-09 13:22:11,357 - INFO - Complaints retrieved by user 4
+2025-12-09 13:23:06,443 - INFO - Session validated for user: 4
+2025-12-09 13:23:08,193 - INFO - Session validated for user: 4
+2025-12-09 13:23:35,685 - INFO - Session validated for user: 4
+2025-12-09 13:24:18,691 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-09 13:24:20,204 - INFO - Session validated for user: 3
+2025-12-09 13:24:24,748 - INFO - Session validated for user: 3
+2025-12-09 13:24:24,999 - INFO - Session validated for user: 3
+2025-12-09 13:24:49,192 - INFO - Session validated for user: 3
+2025-12-09 13:24:49,516 - INFO - Session validated for user: 3
+2025-12-09 13:24:49,772 - INFO - Session validated for user: 3
+2025-12-09 13:24:51,725 - INFO - Session validated for user: 3
+2025-12-09 13:24:52,040 - INFO - Session validated for user: 3
+2025-12-09 13:24:52,111 - INFO - Complaints retrieved by user 3
+2025-12-09 13:24:57,014 - INFO - Complaint 7 status updated by user 3 from Open to In Progress
+2025-12-09 13:25:00,012 - INFO - Session validated for user: 3
+2025-12-09 13:25:00,268 - INFO - Session validated for user: 3
+2025-12-09 13:25:00,335 - INFO - Session validated for user: 3
+2025-12-09 13:25:02,111 - INFO - Session validated for user: 3
+2025-12-09 13:25:02,428 - INFO - Session validated for user: 3
+2025-12-09 13:25:02,687 - INFO - Session validated for user: 3
+2025-12-09 13:25:23,294 - INFO - Session validated for user: 3
+2025-12-09 13:25:30,638 - INFO - Session validated for user: 3
+2025-12-09 13:25:33,972 - INFO - Session validated for user: 3
+2025-12-09 13:25:34,232 - INFO - Session validated for user: 3
+2025-12-09 13:25:34,295 - INFO - Session validated for user: 3
+2025-12-09 13:25:35,973 - INFO - Session validated for user: 3
+2025-12-09 13:25:36,291 - INFO - Session validated for user: 3
+2025-12-09 13:25:44,055 - INFO - Session validated for user: 3
+2025-12-09 13:25:44,369 - INFO - Session validated for user: 3
+2025-12-09 13:25:44,616 - INFO - Session validated for user: 3
+2025-12-09 13:25:48,261 - INFO - Session validated for user: 3
+2025-12-09 13:25:48,584 - INFO - Session validated for user: 3
+2025-12-09 13:26:12,648 - INFO - Session validated for user: 3
+2025-12-09 13:26:12,899 - INFO - Session validated for user: 3
+2025-12-09 13:26:12,981 - INFO - Session validated for user: 3
+2025-12-09 13:26:31,523 - INFO - User logged out: 3
+2025-12-09 15:51:06,481 - INFO - Flask app initialized
+2025-12-10 09:39:36,509 - INFO - Flask app initialized
+2025-12-10 09:39:37,245 - INFO - Flask app initialized
+2025-12-10 09:39:52,826 - WARNING - Unauthorized session validation attempt
+2025-12-10 09:39:53,065 - WARNING - Unauthorized session validation attempt
+2025-12-10 09:40:08,153 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 09:40:09,678 - INFO - Session validated for user: 3
+2025-12-10 09:58:38,286 - INFO - Session validated for user: 3
+2025-12-10 09:58:38,535 - INFO - Session validated for user: 3
+2025-12-10 09:58:46,429 - INFO - Session validated for user: 3
+2025-12-10 09:58:46,754 - INFO - Session validated for user: 3
+2025-12-10 09:58:47,015 - INFO - Session validated for user: 3
+2025-12-10 09:58:54,732 - INFO - Session validated for user: 3
+2025-12-10 09:58:54,989 - INFO - Session validated for user: 3
+2025-12-10 09:58:55,086 - INFO - Complaints retrieved by user 3
+2025-12-10 09:58:58,537 - INFO - Session validated for user: 3
+2025-12-10 09:58:58,852 - INFO - Session validated for user: 3
+2025-12-10 09:58:59,119 - INFO - Session validated for user: 3
+2025-12-10 09:59:01,396 - INFO - Session validated for user: 3
+2025-12-10 09:59:01,711 - INFO - Session validated for user: 3
+2025-12-10 09:59:04,158 - INFO - Session validated for user: 3
+2025-12-10 09:59:04,483 - INFO - Session validated for user: 3
+2025-12-10 09:59:04,742 - INFO - Session validated for user: 3
+2025-12-10 09:59:06,518 - INFO - User logged out: 3
+2025-12-10 09:59:14,275 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-10 09:59:15,795 - INFO - Session validated for user: 4
+2025-12-10 09:59:24,178 - INFO - Complaints retrieved by user 4
+2025-12-10 09:59:29,351 - INFO - Session validated for user: 4
+2025-12-10 09:59:30,974 - INFO - Session validated for user: 4
+2025-12-10 10:03:53,336 - INFO - Flask app initialized
+2025-12-10 10:03:53,770 - INFO - Flask app initialized
+2025-12-10 10:04:04,539 - INFO - Session validated for user: 4
+2025-12-10 10:04:04,704 - INFO - Session validated for user: 4
+2025-12-10 10:05:45,144 - INFO - New user registered: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:05:52,175 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:05:54,070 - INFO - Session validated for user: 5
+2025-12-10 10:07:10,580 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 10:07:12,108 - INFO - Session validated for user: 3
+2025-12-10 10:07:23,736 - INFO - Session validated for user: 3
+2025-12-10 10:07:23,996 - INFO - Session validated for user: 3
+2025-12-10 10:07:24,065 - INFO - Complaints retrieved by user 3
+2025-12-10 10:07:30,959 - INFO - Session validated for user: 3
+2025-12-10 10:07:31,274 - INFO - Session validated for user: 3
+2025-12-10 10:07:31,536 - INFO - Session validated for user: 3
+2025-12-10 10:08:42,645 - INFO - Session validated for user: 3
+2025-12-10 10:08:42,913 - INFO - Session validated for user: 3
+2025-12-10 10:08:42,971 - INFO - Session validated for user: 3
+2025-12-10 10:08:46,597 - INFO - User logged out: 3
+2025-12-10 10:08:49,553 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:08:49,814 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:08:52,351 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:08:52,606 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:08:53,579 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:08:53,949 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:09:08,078 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:09:08,339 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:10:55,379 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:10:56,917 - INFO - Session validated for user: 5
+2025-12-10 10:11:17,513 - INFO - Session validated for user: 5
+2025-12-10 10:12:08,139 - INFO - User logged out: 5
+2025-12-10 10:12:11,048 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:12:12,894 - INFO - Session validated for user: 5
+2025-12-10 10:12:18,316 - INFO - Complaints retrieved by user 5
+2025-12-10 10:12:21,581 - INFO - Session validated for user: 5
+2025-12-10 10:12:22,499 - INFO - Session validated for user: 5
+2025-12-10 10:12:25,640 - INFO - Session validated for user: 5
+2025-12-10 10:12:27,699 - INFO - User logged out: 5
+2025-12-10 10:12:41,925 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 10:12:43,446 - INFO - Session validated for user: 3
+2025-12-10 10:17:29,162 - INFO - Session validated for user: 3
+2025-12-10 10:17:29,473 - INFO - Session validated for user: 3
+2025-12-10 10:17:37,302 - INFO - Session validated for user: 3
+2025-12-10 10:17:37,616 - INFO - Session validated for user: 3
+2025-12-10 10:17:37,883 - INFO - Session validated for user: 3
+2025-12-10 10:17:39,853 - INFO - Session validated for user: 3
+2025-12-10 10:17:40,166 - INFO - Session validated for user: 3
+2025-12-10 10:17:40,174 - INFO - Complaints retrieved by user 3
+2025-12-10 10:17:50,333 - INFO - Complaint 11 deleted by user 3
+2025-12-10 10:17:53,716 - INFO - Session validated for user: 3
+2025-12-10 10:17:53,959 - INFO - Session validated for user: 3
+2025-12-10 10:17:54,035 - INFO - Session validated for user: 3
+2025-12-10 10:17:56,001 - INFO - User logged out: 3
+2025-12-10 10:17:58,919 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:18:00,436 - INFO - Session validated for user: 5
+2025-12-10 10:18:03,372 - INFO - Complaints retrieved by user 5
+2025-12-10 10:20:19,730 - INFO - Complaint created by user 5: issue in our campus hub 
+2025-12-10 10:20:19,994 - INFO - Complaints retrieved by user 5
+2025-12-10 10:20:23,922 - INFO - Session validated for user: 5
+2025-12-10 10:20:26,007 - INFO - User logged out: 5
+2025-12-10 10:21:02,048 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 10:21:03,865 - INFO - Session validated for user: 3
+2025-12-10 10:34:12,353 - INFO - Session validated for user: 3
+2025-12-10 10:34:12,620 - INFO - Session validated for user: 3
+2025-12-10 10:34:12,732 - INFO - Complaints retrieved by user 3
+2025-12-10 10:34:39,849 - INFO - Session validated for user: 3
+2025-12-10 10:34:40,105 - INFO - Session validated for user: 3
+2025-12-10 10:34:40,166 - INFO - Session validated for user: 3
+2025-12-10 10:34:41,948 - INFO - Session validated for user: 3
+2025-12-10 10:34:42,269 - INFO - Session validated for user: 3
+2025-12-10 10:34:50,965 - INFO - Session validated for user: 3
+2025-12-10 10:34:51,283 - INFO - Session validated for user: 3
+2025-12-10 10:34:51,537 - INFO - Session validated for user: 3
+2025-12-10 10:34:54,276 - INFO - Session validated for user: 3
+2025-12-10 10:34:54,585 - INFO - Session validated for user: 3
+2025-12-10 10:34:54,841 - INFO - Session validated for user: 3
+2025-12-10 10:34:57,732 - INFO - Session validated for user: 3
+2025-12-10 10:34:58,053 - INFO - Session validated for user: 3
+2025-12-10 10:34:58,308 - INFO - Session validated for user: 3
+2025-12-10 10:34:59,805 - INFO - Session validated for user: 3
+2025-12-10 10:35:00,120 - INFO - Session validated for user: 3
+2025-12-10 10:35:00,127 - INFO - Complaints retrieved by user 3
+2025-12-10 10:35:53,188 - INFO - Session validated for user: 3
+2025-12-10 10:35:53,463 - INFO - Session validated for user: 3
+2025-12-10 10:35:53,505 - INFO - Session validated for user: 3
+2025-12-10 10:36:12,178 - INFO - Session validated for user: 3
+2025-12-10 10:36:15,048 - INFO - User logged out: 3
+2025-12-10 10:36:25,875 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:36:26,185 - WARNING - Unauthorized session validation attempt
+2025-12-10 10:36:30,386 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:36:32,205 - INFO - Session validated for user: 5
+2025-12-10 10:36:40,895 - INFO - User logged out: 5
+2025-12-10 10:36:54,148 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 10:36:55,663 - INFO - Session validated for user: 3
+2025-12-10 10:37:37,381 - INFO - User logged out: 3
+2025-12-10 10:38:01,873 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:38:03,696 - INFO - Session validated for user: 5
+2025-12-10 10:38:19,262 - INFO - Complaints retrieved by user 5
+2025-12-10 10:38:31,572 - INFO - Complaint created by user 5: studies
+2025-12-10 10:38:31,763 - INFO - Complaints retrieved by user 5
+2025-12-10 10:38:41,222 - INFO - Session validated for user: 5
+2025-12-10 10:38:43,070 - INFO - Session validated for user: 5
+2025-12-10 10:38:50,769 - INFO - Session validated for user: 5
+2025-12-10 10:38:57,041 - INFO - User logged out: 5
+2025-12-10 10:39:07,305 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-10 10:39:09,132 - INFO - Session validated for user: 3
+2025-12-10 10:39:20,984 - INFO - Session validated for user: 3
+2025-12-10 10:39:21,354 - INFO - Session validated for user: 3
+2025-12-10 10:39:35,969 - INFO - Session validated for user: 3
+2025-12-10 10:39:36,281 - INFO - Session validated for user: 3
+2025-12-10 10:39:36,544 - INFO - Session validated for user: 3
+2025-12-10 10:39:38,512 - INFO - Session validated for user: 3
+2025-12-10 10:39:38,822 - INFO - Session validated for user: 3
+2025-12-10 10:39:38,893 - INFO - Complaints retrieved by user 3
+2025-12-10 10:40:10,147 - INFO - Complaint 14 deleted by user 3
+2025-12-10 10:48:43,699 - INFO - Session validated for user: 3
+2025-12-10 10:48:43,959 - INFO - Session validated for user: 3
+2025-12-10 10:48:44,018 - INFO - Session validated for user: 3
+2025-12-10 10:50:57,598 - INFO - Session validated for user: 3
+2025-12-10 10:50:57,864 - INFO - Session validated for user: 3
+2025-12-10 10:51:27,462 - INFO - Session validated for user: 3
+2025-12-10 10:51:27,728 - INFO - Session validated for user: 3
+2025-12-10 10:51:27,780 - INFO - Session validated for user: 3
+2025-12-10 10:51:29,154 - INFO - Session validated for user: 3
+2025-12-10 10:51:29,479 - INFO - Session validated for user: 3
+2025-12-10 10:51:29,494 - INFO - Complaints retrieved by user 3
+2025-12-10 10:51:42,386 - INFO - Session validated for user: 3
+2025-12-10 10:51:42,700 - INFO - Session validated for user: 3
+2025-12-10 10:51:42,970 - INFO - Session validated for user: 3
+2025-12-10 10:51:44,685 - INFO - Session validated for user: 3
+2025-12-10 10:51:44,991 - INFO - Session validated for user: 3
+2025-12-10 10:51:45,253 - INFO - Session validated for user: 3
+2025-12-10 10:51:50,332 - INFO - Session validated for user: 3
+2025-12-10 10:51:50,652 - INFO - Session validated for user: 3
+2025-12-10 10:51:50,902 - INFO - Session validated for user: 3
+2025-12-10 10:52:11,344 - INFO - Session validated for user: 3
+2025-12-10 10:52:11,659 - INFO - Session validated for user: 3
+2025-12-10 10:52:11,920 - INFO - Session validated for user: 3
+2025-12-10 10:52:49,437 - INFO - User logged out: 3
+2025-12-10 10:53:35,748 - INFO - User logged in: emanaltaf281@gmail.com with role Resident
+2025-12-10 10:53:37,267 - INFO - Session validated for user: 5
+2025-12-10 10:53:58,565 - INFO - Complaints retrieved by user 5
+2025-12-10 10:54:17,769 - INFO - Session validated for user: 5
+2025-12-10 10:54:20,225 - INFO - Session validated for user: 5
+2025-12-10 10:54:47,413 - INFO - Session validated for user: 5
+2025-12-18 17:35:51,228 - INFO - Flask app initialized
+2025-12-18 17:35:52,260 - INFO - Flask app initialized
+2025-12-18 17:47:02,626 - INFO - Flask app initialized
+2025-12-18 17:47:03,132 - INFO - Flask app initialized
+2025-12-18 18:01:00,546 - INFO - Flask app initialized
+2025-12-18 18:01:01,545 - INFO - Flask app initialized
+2025-12-18 18:01:26,007 - WARNING - Unauthorized session validation attempt
+2025-12-18 18:01:26,268 - WARNING - Unauthorized session validation attempt
+2025-12-18 18:18:47,391 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:18:49,017 - INFO - Session validated for user: 3
+2025-12-18 18:19:24,741 - INFO - User logged out: 3
+2025-12-18 18:19:35,882 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 18:19:37,472 - INFO - Session validated for user: 4
+2025-12-18 18:19:41,217 - INFO - Complaints retrieved by user 4
+2025-12-18 18:20:26,352 - INFO - Session validated for user: 4
+2025-12-18 18:20:28,145 - INFO - User logged out: 4
+2025-12-18 18:21:05,262 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:21:06,841 - INFO - Session validated for user: 3
+2025-12-18 18:21:26,219 - INFO - Session validated for user: 3
+2025-12-18 18:21:26,461 - INFO - Session validated for user: 3
+2025-12-18 18:21:26,557 - INFO - Complaints retrieved by user 3
+2025-12-18 18:21:42,835 - INFO - Session validated for user: 3
+2025-12-18 18:21:43,149 - INFO - Session validated for user: 3
+2025-12-18 18:21:43,408 - INFO - Session validated for user: 3
+2025-12-18 18:21:45,216 - INFO - User logged out: 3
+2025-12-18 18:21:53,975 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:21:55,559 - INFO - Session validated for user: 3
+2025-12-18 18:22:00,017 - INFO - Session validated for user: 3
+2025-12-18 18:22:00,271 - INFO - Session validated for user: 3
+2025-12-18 18:22:00,369 - INFO - Complaints retrieved by user 3
+2025-12-18 18:22:02,388 - INFO - Session validated for user: 3
+2025-12-18 18:22:02,781 - INFO - Session validated for user: 3
+2025-12-18 18:22:03,041 - INFO - Session validated for user: 3
+2025-12-18 18:22:04,206 - INFO - User logged out: 3
+2025-12-18 18:22:14,258 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 18:22:15,787 - INFO - Session validated for user: 4
+2025-12-18 18:22:18,477 - INFO - Complaints retrieved by user 4
+2025-12-18 18:23:10,181 - INFO - Complaint created by user 4: Resources Access error
+2025-12-18 18:23:10,503 - INFO - Complaints retrieved by user 4
+2025-12-18 18:23:29,546 - INFO - Session validated for user: 4
+2025-12-18 18:23:30,768 - INFO - User logged out: 4
+2025-12-18 18:23:39,652 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:23:41,180 - INFO - Session validated for user: 3
+2025-12-18 18:23:43,185 - INFO - Session validated for user: 3
+2025-12-18 18:23:43,438 - INFO - Session validated for user: 3
+2025-12-18 18:23:43,518 - INFO - Complaints retrieved by user 3
+2025-12-18 18:25:02,222 - INFO - Complaint 12 deleted by user 3
+2025-12-18 18:25:23,546 - INFO - Session validated for user: 3
+2025-12-18 18:25:23,875 - INFO - Session validated for user: 3
+2025-12-18 18:25:24,113 - INFO - Session validated for user: 3
+2025-12-18 18:25:27,411 - INFO - Session validated for user: 3
+2025-12-18 18:25:27,737 - INFO - Session validated for user: 3
+2025-12-18 18:26:24,008 - INFO - Session validated for user: 3
+2025-12-18 18:26:24,269 - INFO - Session validated for user: 3
+2025-12-18 18:26:24,333 - INFO - Session validated for user: 3
+2025-12-18 18:26:27,181 - INFO - Session validated for user: 3
+2025-12-18 18:26:27,500 - INFO - Session validated for user: 3
+2025-12-18 18:27:33,784 - INFO - Session validated for user: 3
+2025-12-18 18:27:34,043 - INFO - Session validated for user: 3
+2025-12-18 18:27:34,109 - INFO - Session validated for user: 3
+2025-12-18 18:27:35,658 - INFO - Session validated for user: 3
+2025-12-18 18:27:35,989 - INFO - Session validated for user: 3
+2025-12-18 18:27:36,225 - INFO - Session validated for user: 3
+2025-12-18 18:28:25,675 - INFO - Session validated for user: 3
+2025-12-18 18:28:25,991 - INFO - Session validated for user: 3
+2025-12-18 18:28:26,243 - INFO - Session validated for user: 3
+2025-12-18 18:28:31,235 - INFO - User logged out: 3
+2025-12-18 18:28:37,543 - WARNING - Failed login attempt for email: Saleha@gmail.com
+2025-12-18 18:28:43,243 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 18:28:45,091 - INFO - Session validated for user: 4
+2025-12-18 18:28:48,369 - INFO - Session validated for user: 4
+2025-12-18 18:29:22,115 - INFO - Session validated for user: 4
+2025-12-18 18:29:22,896 - INFO - User logged out: 4
+2025-12-18 18:29:32,057 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:29:33,586 - INFO - Session validated for user: 3
+2025-12-18 18:29:37,237 - INFO - Session validated for user: 3
+2025-12-18 18:29:37,496 - INFO - Session validated for user: 3
+2025-12-18 18:29:37,563 - INFO - Session validated for user: 3
+2025-12-18 18:30:49,689 - INFO - Session validated for user: 3
+2025-12-18 18:46:19,236 - INFO - Session validated for user: 3
+2025-12-18 18:46:21,234 - INFO - Session validated for user: 3
+2025-12-18 18:46:21,479 - INFO - Session validated for user: 3
+2025-12-18 18:46:21,551 - INFO - Session validated for user: 3
+2025-12-18 18:46:23,004 - INFO - User logged out: 3
+2025-12-18 18:46:31,440 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:46:32,968 - INFO - Session validated for user: 3
+2025-12-18 18:46:40,834 - INFO - User logged out: 3
+2025-12-18 18:46:48,392 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 18:46:50,216 - INFO - Session validated for user: 4
+2025-12-18 18:49:16,024 - INFO - User logged out: 4
+2025-12-18 18:49:24,378 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:49:26,215 - INFO - Session validated for user: 3
+2025-12-18 18:52:02,146 - INFO - User logged out: 3
+2025-12-18 18:52:14,679 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:52:16,210 - INFO - Session validated for user: 3
+2025-12-18 18:52:40,776 - INFO - User logged out: 3
+2025-12-18 18:54:46,579 - INFO - User logged in: saleha@gmail.com with role Medical
+2025-12-18 18:54:48,107 - INFO - Session validated for user: 4
+2025-12-18 18:56:22,867 - INFO - Session validated for user: 4
+2025-12-18 18:56:23,104 - INFO - Session validated for user: 4
+2025-12-18 18:56:39,263 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 18:56:41,218 - INFO - Session validated for user: 3
+2025-12-18 19:06:50,532 - INFO - Flask app initialized
+2025-12-18 19:06:51,421 - INFO - Flask app initialized
+2025-12-18 19:07:10,056 - INFO - Session validated for user: 3
+2025-12-18 19:07:10,309 - INFO - Session validated for user: 3
+2025-12-18 19:07:10,562 - INFO - Session validated for user: 3
+2025-12-18 19:07:10,889 - INFO - Session validated for user: 3
+2025-12-18 19:07:11,140 - INFO - Session validated for user: 3
+2025-12-18 19:07:40,102 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 19:07:41,635 - INFO - Session validated for user: 4
+2025-12-18 19:08:50,216 - INFO - User logged out: 4
+2025-12-18 19:09:01,765 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 19:09:03,600 - INFO - Session validated for user: 3
+2025-12-18 19:10:01,942 - INFO - User logged out: 3
+2025-12-18 19:10:13,052 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 19:10:14,892 - INFO - Session validated for user: 4
+2025-12-18 19:11:00,828 - INFO - Session validated for user: 4
+2025-12-18 19:11:09,775 - INFO - Session validated for user: 4
+2025-12-18 19:11:11,793 - INFO - Session validated for user: 4
+2025-12-18 19:11:13,437 - INFO - Session validated for user: 4
+2025-12-18 19:11:13,999 - INFO - Complaints retrieved by user 4
+2025-12-18 19:11:58,213 - INFO - Session validated for user: 4
+2025-12-18 19:11:58,460 - INFO - Session validated for user: 4
+2025-12-18 19:11:58,532 - INFO - Session validated for user: 4
+2025-12-18 19:25:47,420 - INFO - Session validated for user: 4
+2025-12-18 19:25:52,077 - INFO - User logged out: 4
+2025-12-18 19:26:02,608 - WARNING - Failed login attempt for email: omama@gmail.com
+2025-12-18 19:26:09,993 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 19:26:11,824 - INFO - Session validated for user: 3
+2025-12-18 19:27:33,761 - INFO - User logged out: 3
+2025-12-18 19:28:44,162 - INFO - New user registered: user@gmail.com with role Medical
+2025-12-18 19:29:00,819 - INFO - User logged in: user@gmail.com with role Medical
+2025-12-18 19:29:02,655 - INFO - Session validated for user: 6
+2025-12-18 19:29:41,845 - INFO - Session validated for user: 6
+2025-12-18 19:29:44,253 - INFO - Session validated for user: 6
+2025-12-18 19:29:45,654 - INFO - User logged out: 6
+2025-12-18 19:30:02,936 - WARNING - Failed login attempt for email: abc@gmail.com
+2025-12-18 19:30:34,860 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 19:30:36,704 - INFO - Session validated for user: 4
+2025-12-18 19:30:39,839 - INFO - Complaints retrieved by user 4
+2025-12-18 19:31:11,433 - INFO - Complaint created by user 4: 1234
+2025-12-18 19:31:11,636 - INFO - Complaints retrieved by user 4
+2025-12-18 19:31:33,799 - INFO - Session validated for user: 4
+2025-12-18 19:44:10,475 - INFO - Flask app initialized
+2025-12-18 19:44:11,770 - INFO - Flask app initialized
+2025-12-18 19:44:24,163 - INFO - Session validated for user: 4
+2025-12-18 19:44:24,486 - INFO - Session validated for user: 4
+2025-12-18 19:46:25,970 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 19:46:27,500 - INFO - Session validated for user: 3
+2025-12-18 19:47:40,298 - INFO - User logged out: 3
+2025-12-18 19:48:21,775 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 19:48:23,299 - INFO - Session validated for user: 3
+2025-12-18 19:49:42,547 - INFO - User logged out: 3
+2025-12-18 19:56:03,473 - WARNING - Unauthorized session validation attempt
+2025-12-18 19:56:03,780 - WARNING - Unauthorized session validation attempt
+2025-12-18 19:57:12,549 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 19:57:14,226 - INFO - Session validated for user: 4
+2025-12-18 19:58:04,761 - INFO - Complaints retrieved by user 4
+2025-12-18 19:58:55,246 - INFO - Complaint created by user 4: Misbehave
+2025-12-18 19:58:55,573 - INFO - Complaints retrieved by user 4
+2025-12-18 19:59:08,908 - INFO - Session validated for user: 4
+2025-12-18 19:59:10,258 - INFO - Session validated for user: 4
+2025-12-18 19:59:43,097 - INFO - Session validated for user: 4
+2025-12-18 19:59:44,659 - INFO - User logged out: 4
+2025-12-18 19:59:53,325 - WARNING - Failed login attempt for email: omama@gmail.com
+2025-12-18 20:00:22,219 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 20:00:24,051 - INFO - Session validated for user: 3
+2025-12-18 20:01:28,770 - INFO - Session validated for user: 3
+2025-12-18 20:01:29,046 - INFO - Session validated for user: 3
+2025-12-18 20:01:44,775 - INFO - Session validated for user: 3
+2025-12-18 20:01:45,089 - INFO - Session validated for user: 3
+2025-12-18 20:01:45,351 - INFO - Session validated for user: 3
+2025-12-18 20:02:01,663 - INFO - Session validated for user: 3
+2025-12-18 20:02:01,929 - INFO - Session validated for user: 3
+2025-12-18 20:02:01,989 - INFO - Complaints retrieved by user 3
+2025-12-18 20:02:12,065 - INFO - Complaint 16 deleted by user 3
+2025-12-18 20:02:24,438 - INFO - Session validated for user: 3
+2025-12-18 20:02:24,694 - INFO - Session validated for user: 3
+2025-12-18 20:02:24,746 - INFO - Session validated for user: 3
+2025-12-18 20:02:25,930 - INFO - Session validated for user: 3
+2025-12-18 20:02:26,244 - INFO - Session validated for user: 3
+2025-12-18 20:02:26,510 - INFO - Session validated for user: 3
+2025-12-18 20:03:21,218 - INFO - Session validated for user: 3
+2025-12-18 20:03:23,614 - INFO - Session validated for user: 3
+2025-12-18 20:03:24,976 - INFO - Session validated for user: 3
+2025-12-18 20:03:25,241 - INFO - Session validated for user: 3
+2025-12-18 20:03:25,292 - INFO - Session validated for user: 3
+2025-12-18 20:03:26,629 - INFO - Session validated for user: 3
+2025-12-18 20:03:26,940 - INFO - Session validated for user: 3
+2025-12-18 20:15:09,786 - INFO - Session validated for user: 3
+2025-12-18 20:15:10,055 - INFO - Session validated for user: 3
+2025-12-18 20:15:10,108 - INFO - Session validated for user: 3
+2025-12-18 20:15:17,611 - INFO - User logged out: 3
+2025-12-18 20:15:27,011 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 20:15:28,527 - INFO - Session validated for user: 3
+2025-12-18 20:15:30,897 - INFO - Session validated for user: 3
+2025-12-18 20:15:31,148 - INFO - Session validated for user: 3
+2025-12-18 20:15:31,215 - INFO - Complaints retrieved by user 3
+2025-12-18 20:31:08,579 - INFO - Flask app initialized
+2025-12-18 20:31:09,068 - INFO - Flask app initialized
+2025-12-18 20:31:23,590 - INFO - Session validated for user: 3
+2025-12-18 20:31:23,854 - INFO - Session validated for user: 3
+2025-12-18 20:36:35,479 - INFO - Session validated for user: 3
+2025-12-18 20:36:35,742 - INFO - Session validated for user: 3
+2025-12-18 20:36:51,153 - INFO - Session validated for user: 3
+2025-12-18 20:36:51,390 - INFO - Session validated for user: 3
+2025-12-18 20:37:26,236 - INFO - Session validated for user: 3
+2025-12-18 20:37:26,490 - INFO - Session validated for user: 3
+2025-12-18 20:46:53,513 - INFO - Flask app initialized
+2025-12-18 20:46:54,247 - INFO - Flask app initialized
+2025-12-18 20:47:20,660 - INFO - Session validated for user: 3
+2025-12-18 20:47:20,926 - INFO - Session validated for user: 3
+2025-12-18 20:49:20,852 - INFO - Session validated for user: 3
+2025-12-18 20:49:21,102 - INFO - Session validated for user: 3
+2025-12-18 20:53:22,349 - INFO - Session validated for user: 3
+2025-12-18 20:53:22,614 - INFO - Session validated for user: 3
+2025-12-18 20:53:44,700 - INFO - New user registered: user2@gmail.com with role Security
+2025-12-18 20:53:59,125 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 20:54:00,648 - INFO - Session validated for user: 3
+2025-12-18 20:54:19,077 - INFO - Session validated for user: 3
+2025-12-18 20:54:19,383 - INFO - Session validated for user: 3
+2025-12-18 20:54:32,691 - INFO - Session validated for user: 3
+2025-12-18 20:54:33,007 - INFO - Session validated for user: 3
+2025-12-18 20:54:33,276 - INFO - Session validated for user: 3
+2025-12-18 20:54:35,488 - INFO - Session validated for user: 3
+2025-12-18 20:54:35,800 - INFO - Session validated for user: 3
+2025-12-18 20:54:35,820 - INFO - Complaints retrieved by user 3
+2025-12-18 20:54:40,803 - INFO - Complaint 17 status updated by user 3 from Open to Resolved
+2025-12-18 20:54:45,861 - INFO - Complaint 15 deleted by user 3
+2025-12-18 20:54:47,725 - INFO - Session validated for user: 3
+2025-12-18 20:54:48,035 - INFO - Session validated for user: 3
+2025-12-18 20:54:48,300 - INFO - Session validated for user: 3
+2025-12-18 20:54:51,521 - INFO - Session validated for user: 3
+2025-12-18 20:54:51,828 - INFO - Session validated for user: 3
+2025-12-18 20:55:17,458 - INFO - Session validated for user: 3
+2025-12-18 20:55:17,774 - INFO - Session validated for user: 3
+2025-12-18 20:55:18,043 - INFO - Session validated for user: 3
+2025-12-18 20:55:19,604 - INFO - Session validated for user: 3
+2025-12-18 20:55:19,913 - INFO - Session validated for user: 3
+2025-12-18 20:55:20,179 - INFO - Session validated for user: 3
+2025-12-18 20:55:37,149 - INFO - Session validated for user: 3
+2025-12-18 20:55:39,089 - INFO - Session validated for user: 3
+2025-12-18 20:55:40,705 - INFO - Session validated for user: 3
+2025-12-18 20:55:41,020 - INFO - Session validated for user: 3
+2025-12-18 20:55:41,285 - INFO - Session validated for user: 3
+2025-12-18 20:55:44,828 - INFO - User logged out: 3
+2025-12-18 20:55:54,171 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 20:55:55,692 - INFO - Session validated for user: 4
+2025-12-18 20:56:04,400 - INFO - Complaints retrieved by user 4
+2025-12-18 20:56:26,719 - INFO - Complaint created by user 4: Medial equiments 
+2025-12-18 20:56:27,042 - INFO - Complaints retrieved by user 4
+2025-12-18 20:56:37,337 - INFO - Complaint 17 status updated by user 4 from Resolved to Resolved
+2025-12-18 20:56:37,658 - INFO - Complaints retrieved by user 4
+2025-12-18 20:56:41,613 - INFO - Session validated for user: 4
+2025-12-18 20:56:43,332 - INFO - Complaints retrieved by user 4
+2025-12-18 20:56:47,040 - INFO - Session validated for user: 4
+2025-12-18 20:56:48,708 - INFO - Session validated for user: 4
+2025-12-18 20:56:54,498 - INFO - Session validated for user: 4
+2025-12-18 20:56:57,353 - INFO - Complaints retrieved by user 4
+2025-12-18 20:57:00,206 - INFO - Session validated for user: 4
+2025-12-18 20:57:07,068 - INFO - User logged out: 4
+2025-12-18 20:59:51,618 - WARNING - Unauthorized session validation attempt
+2025-12-18 20:59:51,867 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:00:16,799 - INFO - New user registered: user3@gmail.com with role Security
+2025-12-18 21:00:30,451 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 21:00:31,966 - INFO - Session validated for user: 3
+2025-12-18 21:00:47,534 - INFO - Session validated for user: 3
+2025-12-18 21:00:47,847 - INFO - Session validated for user: 3
+2025-12-18 21:01:01,394 - INFO - Session validated for user: 3
+2025-12-18 21:01:01,710 - INFO - Session validated for user: 3
+2025-12-18 21:01:01,979 - INFO - Session validated for user: 3
+2025-12-18 21:01:04,369 - INFO - Session validated for user: 3
+2025-12-18 21:01:04,676 - INFO - Session validated for user: 3
+2025-12-18 21:01:04,708 - INFO - Complaints retrieved by user 3
+2025-12-18 21:01:10,115 - INFO - Complaint 18 status updated by user 3 from Open to In Progress
+2025-12-18 21:01:17,519 - INFO - Complaint 18 deleted by user 3
+2025-12-18 21:01:19,543 - INFO - Session validated for user: 3
+2025-12-18 21:01:19,853 - INFO - Session validated for user: 3
+2025-12-18 21:01:20,113 - INFO - Session validated for user: 3
+2025-12-18 21:01:22,076 - INFO - Session validated for user: 3
+2025-12-18 21:01:22,385 - INFO - Session validated for user: 3
+2025-12-18 21:01:46,906 - INFO - Session validated for user: 3
+2025-12-18 21:01:47,171 - INFO - Session validated for user: 3
+2025-12-18 21:01:47,219 - INFO - Session validated for user: 3
+2025-12-18 21:01:48,465 - INFO - Session validated for user: 3
+2025-12-18 21:01:48,776 - INFO - Session validated for user: 3
+2025-12-18 21:01:49,050 - INFO - Session validated for user: 3
+2025-12-18 21:02:01,432 - INFO - Session validated for user: 3
+2025-12-18 21:02:09,634 - INFO - Session validated for user: 3
+2025-12-18 21:02:10,750 - INFO - Session validated for user: 3
+2025-12-18 21:02:11,014 - INFO - Session validated for user: 3
+2025-12-18 21:02:11,061 - INFO - Session validated for user: 3
+2025-12-18 21:02:14,134 - INFO - User logged out: 3
+2025-12-18 21:02:23,535 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 21:02:25,050 - INFO - Session validated for user: 4
+2025-12-18 21:02:35,188 - INFO - Complaints retrieved by user 4
+2025-12-18 21:03:01,244 - INFO - Complaint created by user 4: late delivery
+2025-12-18 21:03:01,562 - INFO - Complaints retrieved by user 4
+2025-12-18 21:03:04,784 - INFO - Session validated for user: 4
+2025-12-18 21:03:06,772 - INFO - Session validated for user: 4
+2025-12-18 21:03:15,264 - INFO - Session validated for user: 4
+2025-12-18 21:03:30,632 - INFO - User logged out: 4
+2025-12-18 21:07:09,942 - INFO - Flask app initialized
+2025-12-18 21:07:10,284 - INFO - Flask app initialized
+2025-12-18 21:07:20,451 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:07:20,715 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:35,144 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:35,409 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:36,293 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:36,545 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:41,697 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:42,003 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:48,227 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:18:48,541 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:19:06,694 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:19:06,947 - WARNING - Unauthorized session validation attempt
+2025-12-18 21:19:55,567 - INFO - New user registered: user4@gmail.com with role Security
+2025-12-18 21:20:05,947 - INFO - User logged in: omam@gmail.com with role Admin
+2025-12-18 21:20:07,463 - INFO - Session validated for user: 3
+2025-12-18 21:20:31,949 - INFO - Session validated for user: 3
+2025-12-18 21:20:32,267 - INFO - Session validated for user: 3
+2025-12-18 21:20:48,499 - INFO - Session validated for user: 3
+2025-12-18 21:20:48,821 - INFO - Session validated for user: 3
+2025-12-18 21:20:49,069 - INFO - Session validated for user: 3
+2025-12-18 21:20:51,714 - INFO - Session validated for user: 3
+2025-12-18 21:20:52,026 - INFO - Session validated for user: 3
+2025-12-18 21:21:17,316 - INFO - Session validated for user: 3
+2025-12-18 21:21:17,579 - INFO - Session validated for user: 3
+2025-12-18 21:21:17,628 - INFO - Session validated for user: 3
+2025-12-18 21:21:18,993 - INFO - Session validated for user: 3
+2025-12-18 21:21:19,301 - INFO - Session validated for user: 3
+2025-12-18 21:21:19,579 - INFO - Session validated for user: 3
+2025-12-18 21:21:32,783 - INFO - Session validated for user: 3
+2025-12-18 21:21:34,673 - INFO - Session validated for user: 3
+2025-12-18 21:21:39,660 - INFO - Session validated for user: 3
+2025-12-18 21:21:39,977 - INFO - Session validated for user: 3
+2025-12-18 21:21:40,246 - INFO - Session validated for user: 3
+2025-12-18 21:21:45,747 - INFO - User logged out: 3
+2025-12-18 21:21:54,410 - INFO - User logged in: Saleha@gmail.com with role Medical
+2025-12-18 21:21:55,932 - INFO - Session validated for user: 4
+2025-12-18 21:22:05,671 - INFO - Complaints retrieved by user 4
+2025-12-18 21:22:38,353 - INFO - Complaint created by user 4: Incorrect Medical equipments
+2025-12-18 21:22:38,671 - INFO - Complaints retrieved by user 4
+2025-12-18 21:22:41,413 - INFO - Session validated for user: 4
+2025-12-18 21:22:43,404 - INFO - Session validated for user: 4
+2025-12-18 21:22:52,144 - INFO - Session validated for user: 4
+2025-12-18 21:22:54,961 - INFO - User logged out: 4
