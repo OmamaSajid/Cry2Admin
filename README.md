@@ -113,5 +113,3 @@ Cry2Admin/
 
 ENJOYYY Y'ALL. 
 
-Do you want me to do that next?
-```
